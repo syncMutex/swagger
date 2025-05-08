@@ -1,4 +1,4 @@
-module github.com/gofiber/swagger
+module github.com/syncMutex/swagger
 
 go 1.18
 
